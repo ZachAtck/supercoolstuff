@@ -1,8 +1,7 @@
 {
     "name": "Testing",
     "desc": "Chat with your friends, easily",
-    "url": "",
-    "encodedUrl": "yes",
+    "url": "https://www.roblox.com",
     "icon": "https://redstonenw.vercel.app/assets/clockwork/muenster.png",
     "version": "v2.0.0",
     "author": "LukasExists",
