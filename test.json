@@ -1,0 +1,12 @@
+{
+    "name": "Testing",
+    "desc": "Chat with your friends, easily",
+    "url": "",
+    "encodedUrl": "yes",
+    "icon": "https://redstonenw.vercel.app/assets/clockwork/muenster.png",
+    "version": "v2.0.0",
+    "author": "LukasExists",
+    "permissions": [
+        "installApp"
+    ]
+}
